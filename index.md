@@ -1,6 +1,10 @@
 Master in Computer Science
 Department of Computer Science and Technology, Nanjing University
 Email: yuhangzhou(a)smail.nju.edu.cn
+Mailing address: Computer Science Department, Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023
+
+## Supervisor
+Professor [Chen Tian](http://cs.nju.edu.cn/tianchen)
 
 ## Biography
 1. M.E in in Computer Science and Technology (September, 2021 - )
@@ -22,6 +26,10 @@ Email: yuhangzhou(a)smail.nju.edu.cn
 ## Projects
 1. [MiniGpustat](https://github.com/njuzyh/MiniGpustat): A fine-grained Python application for querying gpu utilization
 2. [EyeTrack](https://github.com/njuzyh/EyeTrack): A mobile player based on eye tracking technology for operation
+
+
+## Teaching Assistant
+Computer Networks, Spring, 2022
 
 
 ## Last Updated
