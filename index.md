@@ -1,37 +1,28 @@
+Master in Computer Science
+Department of Computer Science and Technology, Nanjing University
+Email: yuhangzhou(a)smail.nju.edu.cn
+
 ## Biography
+1. M.E in in Computer Science and Technology (September, 2021 - )
+- Department of Computer Science and Technology, Nanjing University, China
 
-You can use the [editor on GitHub](https://github.com/njuzyh/yuhangzhou.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2. B.S in Computer Science and Technology (September, 2016 - June, 2020)
+- Department of Computer Science and Technology, Nanjing University, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
+1. Distributed Machine Learning System
+2. Data Center Network
 
-### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+1. Jiaqing Dong, Lijuan Tan, Chen Tian, Yuhang Zhou, Yi Wang, Wanchun Dou, and Guihai Chen. MEET: rack-level pooling based load balancing in datacenter networks. IEEE Transactions on on Parallel and Distributed Systems (TPDS), to appear.
+2. 田冰川, 田臣, 周宇航, 陈贵海, 窦万春. 减少Hadoop集群中网络队头阻塞的调度算法. 计算机科学, to appear.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
+1. [MiniGpustat](https://github.com/njuzyh/MiniGpustat): A fine-grained Python application for querying gpu utilization
+2. [EyeTrack](https://github.com/njuzyh/EyeTrack): A mobile player based on eye tracking technology for operation
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Projects
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/njuzyh/yuhangzhou.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Last Updated
+March 28, 2022.
