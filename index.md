@@ -1,10 +1,12 @@
-Master in Computer Science
-Department of Computer Science and Technology, Nanjing University
-Email: yuhangzhou(a)smail.nju.edu.cn
-Mailing address: Computer Science Department, Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023
+Master in Computer Science  
+Department of Computer Science and Technology, Nanjing University  
+**Email**: yuhangzhou(a)smail.nju.edu.cn  
+**Mailing address**: Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023  
+
 
 ## Supervisor
 Professor [Chen Tian](http://cs.nju.edu.cn/tianchen)
+
 
 ## Biography
 1. M.E in in Computer Science and Technology (September, 2021 - )
@@ -12,6 +14,7 @@ Professor [Chen Tian](http://cs.nju.edu.cn/tianchen)
 
 2. B.S in Computer Science and Technology (September, 2016 - June, 2020)
 - Department of Computer Science and Technology, Nanjing University, China
+
 
 ## Research Interests
 1. Distributed Machine Learning System
