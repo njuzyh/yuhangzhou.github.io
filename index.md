@@ -28,16 +28,16 @@ Accelerate Completion of Data-parallel Jobs. IEEE Transactions on on Parallel an
 3. 田冰川, 田臣, 周宇航, 陈贵海, 窦万春. [减少Hadoop集群中网络队头阻塞的调度算法[J]](https://cs.nju.edu.cn/tianchen/lunwen/2022/jsjkx22-bingchuan.pdf). 计算机科学, 2022, 49(3): 11-22.
 
 ## InterShip
-1. [2022.07 - 2022.12] **Pengcheng Lab**, Advised by Wang Bingqiang, Researcher of Large-scale model training.
-2. [2023.01 - ] **Huawei**, Advised by Zhang Jingyi, Researcher of ML workload modeling.
+1. [2022.07 - 2022.12] **Pengcheng Lab**, Advised by **Wang Bingqiang**, Researcher of Large-scale model training.
+2. [2023.01 - ] **Huawei**, Advised by **Zhang Jingyi**, Researcher of ML workload modeling.
 
 ## Projects
 1. [MiniGpustat](https://github.com/njuzyh/MiniGpustat): A fine-grained Python application for querying gpu utilization
 2. [EyeTrack](https://github.com/njuzyh/EyeTrack): A mobile player based on eye tracking technology for operation
 
 
-## Teaching Assistant
-Computer Networks, Spring, 2022
+## Teaching
+**Teaching Assistant**, Computer Networks, NJU, Spring, 2022
 
 
 ## Last Updated
