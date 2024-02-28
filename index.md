@@ -1,4 +1,4 @@
-Master in Computer Science  
+Ph.D in Computer Science in progress  
 Department of Computer Science and Technology, Nanjing University  
 **Email**: yuhangzhou(a)smail.nju.edu.cn  
 **Mailing address**: Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023  
